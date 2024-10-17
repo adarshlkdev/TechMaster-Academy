@@ -1,0 +1,104 @@
+{
+  "courses": [
+      {
+          "id": 1,
+          "title": "Introduction to Python",
+          "slug": "introduction-to-python",
+          "description": "Learn the basics of Python programming with this comprehensive beginner's course.",
+          "price": 99.99,
+          "instructor": "Alice Johnson",
+          "isFeatured": true,
+          "image": "/courses/python.jpg"
+      },
+      {
+          "id": 2,
+          "title": "Web Development with HTML & CSS",
+          "slug": "web-development-html-css",
+          "description": "Start your journey into web development with foundational skills in HTML and CSS.",
+          "price": 109.99,
+          "instructor": "Bob Smith",
+          "isFeatured": false,
+          "image": "/courses/web-dev.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Advanced JavaScript Techniques",
+          "slug": "advanced-javascript-techniques",
+          "description": "Enhance your JavaScript skills with advanced techniques for intermediate to advanced learners.",
+          "price": 119.99,
+          "instructor": "Charlie Brown",
+          "isFeatured": true,
+          "image": "/courses/javascript.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Mastering React",
+          "slug": "mastering-react",
+          "description": "Master React with our comprehensive course covering all skill levels.",
+          "price": 129.99,
+          "instructor": "David Wilson",
+          "isFeatured": false,
+          "image": "/courses/react.jpg"
+      },
+      {
+          "id": 5,
+          "title": "Data Science with Python",
+          "slug": "data-science-python",
+          "description": "Learn the art of data science with this course designed for all levels.",
+          "price": 139.99,
+          "instructor": "Eve Davis",
+          "isFeatured": false,
+          "image": "/courses/data-science.jpg"
+      },
+      {
+          "id": 6,
+          "title": "Machine Learning Fundamentals",
+          "slug": "machine-learning-fundamentals",
+          "description": "Dive into machine learning with this introductory course on the basics of algorithms and models.",
+          "price": 149.99,
+          "instructor": "Frank Miller",
+          "isFeatured": true,
+          "image": "/courses/machine-learning.jpg"
+      },
+      {
+          "id": 7,
+          "title": "DevOps Essentials",
+          "slug": "devops-essentials",
+          "description": "Learn the essentials of DevOps to streamline your development and operations processes.",
+          "price": 159.99,
+          "instructor": "Grace Lee",
+          "isFeatured": false,
+          "image": "/courses/devops.jpg"
+      },
+      {
+          "id": 8,
+          "title": "Cloud Computing with AWS",
+          "slug": "cloud-computing-aws",
+          "description": "Create and manage cloud infrastructure with our course designed for beginners to advanced users.",
+          "price": 169.99,
+          "instructor": "Henry Harris",
+          "isFeatured": true,
+          "image": "/courses/aws.jpg"
+      },
+      {
+          "id": 9,
+          "title": "Cybersecurity Fundamentals",
+          "slug": "cybersecurity-fundamentals",
+          "description": "Explore the fundamentals of cybersecurity to protect systems and data.",
+          "price": 179.99,
+          "instructor": "Ivy Moore",
+          "isFeatured": false,
+          "image": "/courses/cybersecurity.jpg"
+      },
+      {
+          "id": 10,
+          "title": "Blockchain Technology",
+          "slug": "blockchain-technology",
+          "description": "Discover the principles and applications of blockchain technology.",
+          "price": 189.99,
+          "instructor": "Jack Thompson",
+          "isFeatured": true,
+          "image": "/courses/blockchain.jpg"
+      }
+  ]
+}
