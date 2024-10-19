@@ -12,7 +12,7 @@ export default function Error() {
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
           Welcome to TechMaster Academy, the best platform for learning technical skills
           on the web. We provide reliable, scalable, and customizable learning
-          solutions for your career growth. Whether you're learning programming,
+          solutions for your career growth. Whether you&apos;re learning programming,
           web development, or data science, TechMaster has got you covered.
         </p>
       </div>
